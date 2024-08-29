@@ -1,0 +1,2 @@
+cd MyInheritanceApp 
+dotnet run

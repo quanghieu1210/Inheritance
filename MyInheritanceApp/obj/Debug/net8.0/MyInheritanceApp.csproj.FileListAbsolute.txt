@@ -1,0 +1,14 @@
+C:\Users\84705\Desktop\exampleC#\Inheritance\MyInheritanceApp\bin\Debug\net8.0\MyInheritanceApp.exe
+C:\Users\84705\Desktop\exampleC#\Inheritance\MyInheritanceApp\bin\Debug\net8.0\MyInheritanceApp.deps.json
+C:\Users\84705\Desktop\exampleC#\Inheritance\MyInheritanceApp\bin\Debug\net8.0\MyInheritanceApp.runtimeconfig.json
+C:\Users\84705\Desktop\exampleC#\Inheritance\MyInheritanceApp\bin\Debug\net8.0\MyInheritanceApp.dll
+C:\Users\84705\Desktop\exampleC#\Inheritance\MyInheritanceApp\bin\Debug\net8.0\MyInheritanceApp.pdb
+C:\Users\84705\Desktop\exampleC#\Inheritance\MyInheritanceApp\obj\Debug\net8.0\MyInheritanceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\84705\Desktop\exampleC#\Inheritance\MyInheritanceApp\obj\Debug\net8.0\MyInheritanceApp.AssemblyInfoInputs.cache
+C:\Users\84705\Desktop\exampleC#\Inheritance\MyInheritanceApp\obj\Debug\net8.0\MyInheritanceApp.AssemblyInfo.cs
+C:\Users\84705\Desktop\exampleC#\Inheritance\MyInheritanceApp\obj\Debug\net8.0\MyInheritanceApp.csproj.CoreCompileInputs.cache
+C:\Users\84705\Desktop\exampleC#\Inheritance\MyInheritanceApp\obj\Debug\net8.0\MyInheritanceApp.dll
+C:\Users\84705\Desktop\exampleC#\Inheritance\MyInheritanceApp\obj\Debug\net8.0\refint\MyInheritanceApp.dll
+C:\Users\84705\Desktop\exampleC#\Inheritance\MyInheritanceApp\obj\Debug\net8.0\MyInheritanceApp.pdb
+C:\Users\84705\Desktop\exampleC#\Inheritance\MyInheritanceApp\obj\Debug\net8.0\MyInheritanceApp.genruntimeconfig.cache
+C:\Users\84705\Desktop\exampleC#\Inheritance\MyInheritanceApp\obj\Debug\net8.0\ref\MyInheritanceApp.dll
